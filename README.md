@@ -12,49 +12,7 @@ As a Software Engineer with 2+ years of experience, I have specialized in ![Flut
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=blue) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&logoColor=white&labelColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoColor=white&labelColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&logoColor=white&labelColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat&logo=amazon-aws&logoColor=black&labelColor=yellow) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white&labelColor=green) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🛠️ Projects
-
-### **Ecfile**
-Ecfile is a comprehensive software suite designed for managing various aspects of business operations, particularly focusing on financial transactions and resource management. Developed as a private source project, Ecfile encompasses multiple sub-projects, each serving a specific purpose within the business ecosystem.
-- This project is private and involves real money-making products.
-- It encompasses multiple sub-projects such as:
-  * Ecpaye (All BPPS Service, etc. payments)
-  * Ecgst (Like ERP)
-  * POS
-- This project has provided me with invaluable experience and knowledge.
-
-📱 **[Play Store link](https://play.google.com/store/apps/details?id=com.ecsoft.ecfile&hl=en&gl=US&pli=1)**
-📱 **App Store link - Update Soon...**
-
-### **British Express Cars**
-The British Express Cars Driver App is a pivotal component of the British Express Cars platform, tailored specifically for private hire drivers. Designed to streamline the process of managing ride requests and providing transportation services, the driver app offers a range of features to enhance efficiency and convenience for drivers.
-
-📱 **[App Store link](https://apps.apple.com/ca/app/bec-driver/id6443525934)**
-📱 **[Play Store link](https://play.google.com/store/apps/details?id=uk.co.britishexpresscars.driverapp)**
-
-#### Donotsave
-Donotsave is a novel solution designed to enhance privacy and security for users when interacting with messaging platforms such as WhatsApp and Telegram. Unlike traditional methods of saving contacts to access messaging apps, Donotsave offers a streamlined approach that eliminates the need to save contacts while still enabling seamless communication.
-
-- GitHub Repository 👉 [click](https://github.com/MYOUSUFFS/dontsave)
-- 🌐 Website Link 👉 [click](https://myousuffs.github.io/donotsave/)
-
-#### Todo App
-
-This is a simple Todo App inspired by the UI design of Google Todo, built using [Flutter](https://flutter.dev/) for managing tasks and keeping track of your daily activities.
-
-####  Features
-
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-- View a list of tasks
-- Edit existing tasks
-- Filter tasks based on status (completed or pending)
-- Clear all completed tasks
-
-#### Getting Started
-
-- To run this application online, you need to go 🌐 **[Website link](https://myousuffs.github.io/todo-web)** 
-- GitHub Repository 👉 [click](https://github.com/MYOUSUFFS/todo)
+[![Click to view my projects 👉 ](https://img.shields.io/badge/-my%20projects-red?style=flat&logo=icon-name&logoColor=white&labelColor=grey&label=👉Click%20to%20view )](https://github.com/MYOUSUFFS/MYOUSUFFS/blob/main/project.md)
 
 <!--## 🌱 I’m currently learning...-->
 
