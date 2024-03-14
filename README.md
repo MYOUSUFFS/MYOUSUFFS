@@ -39,5 +39,5 @@ mailyousuffsend@gmail.com
 **Feel free to reach out to me via:**
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myselfyousuff/)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myselfyousuff/)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myselfyousuff/)[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&labelColor=black&logoColor=white&color=black)](https://twitter.com/myselfyousuff/)<br>
 **You can also find me on:**
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/myselfyousuff/)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/mysoft_in/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@myselfyousuff)
