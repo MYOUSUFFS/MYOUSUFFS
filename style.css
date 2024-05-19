@@ -1,0 +1,165 @@
+/* style.css */
+:root {
+  --background-color: #fff; /* Default light background */
+  --text-color: #000; /* Default text color */
+  --background-image: url("assets/image/bg-white.png");
+  --second-name-bg: url("assets/image/name-bg-black.png");
+  --video-bg-glass-color: rgba(255, 255, 255, 0.5);
+  --round-align-right: flex-start;
+}
+
+.dark-theme {
+  --background-color: #000; /* Dark background color */
+  --text-color: #fff; /* Light text color */
+  --background-image: url("assets/image/bg-black.png");
+  --second-name-bg: url("assets/image/name-bg-white.png");
+  --round-align-right: flex-end;
+  --video-bg-glass-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  cursor: url("assets/image/cursor.png"), auto;
+  background-image: var(--background-image);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+#myVideo {
+  display: none;
+}
+
+#hole-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  #hole-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 70px 5%;
+  }
+  #content {
+    width: 70%;
+    float: left;
+  }
+
+  #skill-img {
+    width: 30%;
+    float: left;
+  }
+
+  /* For bg video running comment */
+  .dark-theme #myVideo {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2; /* Todo - this is the main think to work video in low layer */
+  }
+  /* Glassmorphism UI elements */
+  .dark-theme .glass-content {
+    position: absolute;
+    height: 100%;
+    left: 0;
+    /* bottom: 0; */
+    width: 100%;
+    object-fit: cover;
+    background-color: var(
+      --video-bg-glass-color
+    ); /* Translucent white background */
+    backdrop-filter: blur(10px); /* Apply a blur effect */
+    /* border-radius: 15px; */
+    /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+    /* Optional: add a shadow for depth */
+    z-index: -1; /* Todo - Layer of the elements */
+  }
+}
+
+#skill-image {
+  height: 400px;
+  align-items: center;
+}
+
+#full-name {
+  font-size: 60px;
+  padding: 0px;
+  font-family: "Itim", cursive;
+}
+
+#second-name {
+  color: var(--background-color);
+  padding: 0px 45px 0px 20px;
+  margin: 0px;
+  background-image: var(--second-name-bg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+}
+
+#last-name {
+  margin: 0px;
+}
+
+#profile {
+  font-size: 50px;
+  font-family: "Libre Barcode 128 Text", system-ui;
+  text-align: end;
+  font-weight: 100;
+  margin: 0px;
+}
+
+#postcard {
+  text-align: justify;
+  font-family: "Courier New", Courier, monospace;
+  line-height: 30px;
+}
+
+/*Todo --- This is for light theme button Icon --- */
+#outside-border {
+  display: flex;
+  align-items: center; /* Align items vertically center */
+  justify-content: var(
+    --round-align-right
+  ); /* Align items horizontally right */
+  background-color: var(--text-color);
+  border-radius: 40px;
+  width: 70px;
+  height: 23px;
+}
+#round-ball {
+  background-color: var(--background-color);
+  border: 0px;
+  border-radius: 40px;
+  width: 20px;
+  height: 20px;
+  margin: 0px 2px 0px 2px; /* Adjusted margin */
+}
+/*! --- Light theme button Icon end --- */
+
+#menu-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: end;
+  font-size: 18px;
+  font-family: "Itim", cursive;
+}
+.menu-li {
+  display: inline-block;
+  vertical-align: middle;
+}
+.menu-a {
+  display: block;
+  padding: 12px;
+  color: var(--text-color);
+}
