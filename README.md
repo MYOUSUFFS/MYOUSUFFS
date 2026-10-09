@@ -5,7 +5,7 @@ As a Software Engineer with 2+ years of experience, I have specialized in ![Flut
 ## 🚀 About Me
 
 - 👨‍💻 Senior Software Engineer
-- 🎓 B.Sc (Information Technology)
+- 🎓 B.Sc (Information Technology), Master of Computer Application (MCA)
 - 💡 Real time solutions is my hobby.
 
 ## 🔧 Technologies & Tools
