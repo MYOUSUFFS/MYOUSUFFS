@@ -4,7 +4,7 @@ As a Software Engineer with 2+ years of experience, I have specialized in ![Flut
 
 ## 🚀 About Me
 
-- 👨‍💻 Senior Software Engineer | 💼 Ecfile Solutions PVT LTD.
+- 👨‍💻 Senior Software Engineer
 - 🎓 B.Sc (Information Technology)
 - 💡 Real time solutions is my hobby.
 
